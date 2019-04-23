@@ -3,12 +3,12 @@ mapping robot coding challenge
 
 TO RUN PROGRAM FROM WINDOWS COMMAND PROMPT:
 
--Be sure latest version of Java Development Kit is installed./n
--Point PATH variable to JDK to ensure compiling
--Navigate to "/mapping-robot/src"
--Compile the program using "javac robot.java"
--Run the program using "java robot.java"
--Follow prompt by typing robot directions
+1. Be sure latest version of Java Development Kit is installed.
+2. Point PATH variable to JDK to ensure compiling.
+3. Navigate to "/mapping-robot/src".
+4. Compile the program using "javac robot.java".
+5. Run the program using "java robot.java".
+6. Follow prompt by typing robot directions.
 
 Sample input:
 2017-01-01; Coffee Shop; L2, L5, L5, R5, L2
