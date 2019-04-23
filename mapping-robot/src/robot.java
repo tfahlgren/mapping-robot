@@ -19,7 +19,7 @@ public class robot{
 	    String data = robotInput.nextLine();
 	    
 	    //Uncomment for sample input
-		//String data = "2019-04-22; Rightpoint; L3, L2, R4, R2, L2, L4, R2, L4, L1, R2, R3";
+		//String data = "2019-04-22; RP; L3, L2, R4, R2, L2, L4, R2, L4, L1, R2, R3";
 		
 		//Split data into sections to be analyzed and used later
 		String[] sections = data.split(";");
