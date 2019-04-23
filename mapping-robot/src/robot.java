@@ -1,7 +1,11 @@
 import java.io.*;
 import java.math.*;
 import java.util.Scanner;
-
+/* This program takes the Mapping-Robot's input (date, destination, list of directions), entered manually by user or hardcoded, and finds
+ * the most direct path from the robot's starting point to the destination, and outputs the date, destination, and that path.
+ *
+ * Robot input is given via command line by user and read by Scanner in main method
+ */
 public class robot{
 
 	public static void main(String[] args){
